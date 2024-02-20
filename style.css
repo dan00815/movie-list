@@ -1,0 +1,27 @@
+.fa {
+  font-size: 1.5rem;
+  padding: 5px;
+}
+form {
+  display: flex;
+  justify-content: space-between;
+}
+.icon {
+  margin-right: 100px;
+}
+
+table,
+tr,
+td {
+  border: 1px solid black;
+  padding: 10px;
+  border-left: 0;
+  border-right: 0;
+  margin-bottom: 15px;
+}
+
+.sec-td {
+  width: 20%;
+}
+
+/*# sourceMappingURL=style.css.map */
